@@ -1,4 +1,4 @@
-![logo](https://github.com/kundan-programer/kundan-2026/blob/main/Black%20Minimal%20Business%20Personal%20Profile%20Linkedin%20Banner%20(1).png)
+![logo](image.jpg)
 <h1 align="center">Hi 👋, I'm Kundan Kumar</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
