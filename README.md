@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Java,DSA,C++, Basic html,css,java**
 
-- 🤞Always ready for **ideathon**
+- 🤞Always ready for **Hackthone & ideathon**
   
 - ⚡ Fun fact **I am so funny😒😒**
 
