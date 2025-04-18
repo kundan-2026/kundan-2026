@@ -56,13 +56,11 @@
 ---
 
 ### 📊 GitHub Stats:
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kundan-2026&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kundan-2026&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kundan-2026&show_icons=true&theme=dark&locale=en" alt="Top Languages" />
+
+![](https://github-contributor-stats.vercel.app/api?username=kundan-2026&limit=5&theme=dark&combine_all_yearly_contributions=true)
+ 
 
 ---
 
