@@ -73,7 +73,7 @@
 
 ---
 
-### ✍️ Random Dev Quote:
+### ✍️ Quote:
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&width=1000" alt="Dev Quote" style="width: 100%;" />
