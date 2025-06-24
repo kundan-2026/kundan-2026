@@ -37,7 +37,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
   </a>
   
-  <a href="https://auth.geeksforgeeks.org/user/kundan16x5oo/" target="_blank">
+  <a href="https://www.geeksforgeeks.org/user/kundan22sc6mou/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
   </a>
 </p>
