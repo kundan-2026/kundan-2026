@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=kundan-2026&label=Profile%20views&color=0e75b6&style=flat" alt="kundan-2026" />
 </p>
 
-- 💬 Ask me about **Java, DSA, C++, basic HTML/CSS/JavaScript**
+- 💬 Ask me about **Java, DSA, SQL, Basic HTML/CSS/JavaScript**
 - 🤞 Always ready for **Hackathons & Ideathons**
 - ⚡ Fun fact: **I'm so funny 😒😒**
 - 📫 Reach me at: **kundan16102002@gmail.com**
@@ -24,6 +24,11 @@
   <a href="https://linkedin.com/in/kundan-kumar-189941261" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
+
+  <a href="https://kundancrafted.netlify.app/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Portfolio" height="30" width="30" />
+</a>
+
   
   <a href="https://whatsapp.com/channel/0029VajJi7790x34cWT1wn3Q" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="whatsapp" height="30" width="40" />
