@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=kundan-2026&label=Profile%20views&color=0e75b6&style=flat" alt="kundan-2026" />
 </p>
 
-- 💬 Ask me about **RPA, Java, DSA, SQL, Basic HTML/CSS/JavaScript**
+- 💬 Ask me about **RPA, Java, C#, DSA, SQL, Basic HTML/CSS/JavaScript**
 - 🤞 Always ready for **Hackathons & Ideathons**
 - ⚡ Fun fact: **I'm so funny 😒😒**
 - 📫 Reach me at: **kundan16102002@gmail.com**
