@@ -51,32 +51,21 @@
 
 ### 🛠️ Languages and Tools:
 <p align="left">
+  <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" alt="RPA" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png" alt="UiPath" width="40" height="40"/>
+  
 </p>
 
 ---
 
-### 📊 GitHub Stats:
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kundan-2026&show_icons=true&theme=dark&locale=en" alt="Top Languages" />
-
-![](https://github-contributor-stats.vercel.app/api?username=kundan-2026&limit=5&theme=dark&combine_all_yearly_contributions=true)
- 
-
----
-
-### 🏆 GitHub Trophies:
-![Trophies](https://github-profile-trophy.vercel.app/?username=kundan-2026&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
 
 ### ✍️ Quote:
 
